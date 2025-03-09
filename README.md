@@ -12,8 +12,7 @@ The Exolegend Virtual Machine simulates the gameplay environment for **Exolegend
 
 This repository contains the necessary files to run the virtual machine and launch the associated game simulation. 
 
-
-![Active Simulator](images/ActiveSimulator.png)
+![Simulator](images/Simulator.png)
 
 ## Example Robots:
 - [Sentience Beta](https://github.com/Sentience-Robotics/exolegend-beta)
@@ -57,11 +56,6 @@ cd path/to/robot_directory
 
 ### Game Master
 ![Game Master](images/GameMaster.png)
-
-### Simulator
-![Simulator](images/Simulator.png)
-
-### Active Simulator
 
 ## Useful links
 
