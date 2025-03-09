@@ -1,0 +1,13 @@
+[2025-03-08 10:51:24] [Antenna] [logger/info] Start Antenna service ...
+[2025-03-08 10:51:24] [Antenna] [logger/info] Connection to GameMaster ...
+[2025-03-08 10:51:24] [Antenna] [logger/info] Connection to GameMaster established
+[2025-03-08 10:51:24] [Antenna] [logger/info] Start requesting game_state to GameMaster ...
+[2025-03-08 10:51:24] [Antenna] [logger/info] -- ANTENNA VIRTUAL SERVER STARTED --
+[2025-03-08 10:51:26] [Antenna] [logger/debug] get virtual request
+[2025-03-08 10:51:26] [Antenna] [logger/debug] get virtual request
+[2025-03-08 10:51:26] [Antenna] [logger/debug] get virtual request
+[2025-03-08 10:51:26] [Antenna] [logger/debug] get virtual request
+[2025-03-08 14:08:33] [Antenna] [logger/debug] get virtual request
+[2025-03-08 14:08:33] [Antenna] [logger/debug] get virtual request
+[2025-03-08 14:08:33] [Antenna] [logger/debug] get virtual request
+[2025-03-08 14:08:33] [Antenna] [logger/debug] get virtual request

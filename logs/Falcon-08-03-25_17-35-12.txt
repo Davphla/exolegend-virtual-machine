@@ -1,0 +1,18 @@
+[2025-03-08 17:35:12] [Falcon] [logger/info] my sid is UB9ORWo4pzN6OL9OAAAE
+[2025-03-08 17:35:19] [Falcon] [logger/info] real active !
+[2025-03-08 17:35:19] [Falcon] [logger/info] simulation active !
+[2025-03-08 17:35:26] [Falcon] [logger/info] WHEEL SIMU COEF left=0.9949160255540391; right=1.0052664628764674
+[2025-03-08 17:35:26] [Falcon] [logger/info] New robot 0.0 0.0 0.0
+[2025-03-08 17:35:28] [Falcon] [logger/info] real active !
+[2025-03-08 17:35:28] [Falcon] [logger/info] simulation active !
+[2025-03-08 17:35:31] [Falcon] [logger/info] remove virtual : 37:33:3A:35:42:3A
+[2025-03-08 17:35:43] [Falcon] [logger/info] WHEEL SIMU COEF left=0.9970746435378574; right=0.9995363475723054
+[2025-03-08 17:35:43] [Falcon] [logger/info] New robot 0.0 0.0 0.0
+[2025-03-08 17:35:45] [Falcon] [logger/info] real active !
+[2025-03-08 17:35:45] [Falcon] [logger/info] simulation active !
+[2025-03-08 17:35:48] [Falcon] [logger/info] remove virtual : 45:35:3A:38:45:3A
+[2025-03-08 17:35:52] [Falcon] [logger/info] WHEEL SIMU COEF left=1.0019288832622202; right=1.0055339589334225
+[2025-03-08 17:35:53] [Falcon] [logger/info] New robot 0.0 0.0 0.0
+[2025-03-08 17:35:54] [Falcon] [logger/info] real active !
+[2025-03-08 17:35:54] [Falcon] [logger/info] simulation active !
+[2025-03-08 17:35:57] [Falcon] [logger/info] remove virtual : 34:46:3A:44:30:3A

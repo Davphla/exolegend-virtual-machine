@@ -1,0 +1,12 @@
+[2025-03-03 09:15:20] [Falcon] [logger/info] my sid is NirhmOiewSP8OYrJAAAG
+[2025-03-03 09:15:20] [Falcon] [logger/info] real active !
+[2025-03-03 09:15:20] [Falcon] [logger/info] simulation active !
+[2025-03-03 09:16:16] [Falcon] [logger/info] WHEEL SIMU COEF left=0.9943742926781439; right=1.0024714287162169
+[2025-03-03 09:16:22] [Falcon] [logger/info] WHEEL SIMU COEF left=1.0108937321725924; right=1.0182040002459554
+[2025-03-03 09:16:22] [Falcon] [logger/info] New robot 0.0 0.0 0.0
+[2025-03-03 09:16:45] [Falcon] [logger/info] simulation active !
+[2025-03-03 09:16:48] [Falcon] [logger/info] remove virtual : 30:33:3A:39:46:3A
+[2025-03-03 09:57:16] [Falcon] [logger/info] real active !
+[2025-03-03 09:57:16] [Falcon] [logger/info] simulation active !
+[2025-03-03 09:57:26] [Falcon] [logger/info] real active !
+[2025-03-03 09:57:26] [Falcon] [logger/info] simulation active !

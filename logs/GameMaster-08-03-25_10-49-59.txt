@@ -1,0 +1,12 @@
+[2025-03-08 10:49:59] [GameMaster] [logger/info]  _________________________________________________ 
+[2025-03-08 10:49:59] [GameMaster] [logger/info] |                                                 |
+[2025-03-08 10:49:59] [GameMaster] [logger/info] |               EXOLEGEND SOFTWARE                |
+[2025-03-08 10:49:59] [GameMaster] [logger/info] |          EXOTEC ~ ALL RIGHTS RESERVED           |
+[2025-03-08 10:49:59] [GameMaster] [logger/info] |_________________________________________________|
+[2025-03-08 10:49:59] [GameMaster] [logger/info] ---
+[2025-03-08 10:49:59] [GameMaster] [logger/info] ---    VERSION  3.0.6-4004acb3
+[2025-03-08 10:49:59] [GameMaster] [logger/info] ---    BUILD    1
+[2025-03-08 10:49:59] [GameMaster] [logger/info] EXOLEGEND uptodate ;) - READY to use !! 
+[2025-03-08 10:49:59] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 10:49:59] [GameMaster] [logger/info] Take random world: arena-c
+[2025-03-08 10:49:59] [GameMaster] [logger/info] HOST NAME : arena-c

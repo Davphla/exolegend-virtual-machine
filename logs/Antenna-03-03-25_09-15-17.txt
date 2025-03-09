@@ -1,0 +1,43 @@
+[2025-03-03 09:15:17] [Antenna] [logger/info] Start Antenna service ...
+[2025-03-03 09:15:17] [Antenna] [logger/info] Connection to GameMaster ...
+[2025-03-03 09:15:17] [Antenna] [logger/info] Connection to GameMaster established
+[2025-03-03 09:15:17] [Antenna] [logger/info] Start requesting game_state to GameMaster ...
+[2025-03-03 09:15:17] [Antenna] [logger/info] -- ANTENNA VIRTUAL SERVER STARTED --
+[2025-03-03 09:15:19] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:19] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:19] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:19] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:22] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:22] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:22] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:22] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:22] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:22] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:22] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:15:22] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:16] [Antenna] [logger/info] virtuals connected = [<py.models.Virtual.Virtual object at 0x72ac84b51b50>]
+[2025-03-03 09:16:22] [Antenna] [logger/info] virtuals connected = [<py.models.Virtual.Virtual object at 0x72ac84b14910>]
+[2025-03-03 09:16:25] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:25] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:25] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:25] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:28] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:28] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:28] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:28] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:42] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:42] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:42] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:42] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:45] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:45] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:45] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:16:45] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:57:16] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:57:16] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:57:16] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:57:16] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:57:26] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:57:26] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:57:26] [Antenna] [logger/debug] get virtual request
+[2025-03-03 09:57:26] [Antenna] [logger/debug] get virtual request

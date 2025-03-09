@@ -1,0 +1,5 @@
+[2025-03-08 10:51:26] [Falcon] [logger/info] my sid is 0kQlh-hK6DxxQHDZAAAE
+[2025-03-08 10:51:27] [Falcon] [logger/info] real active !
+[2025-03-08 10:51:27] [Falcon] [logger/info] simulation active !
+[2025-03-08 14:08:33] [Falcon] [logger/info] real active !
+[2025-03-08 14:08:33] [Falcon] [logger/info] simulation active !

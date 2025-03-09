@@ -1,0 +1,1188 @@
+[2025-03-08 16:05:26] [GameMaster] [logger/info]  _________________________________________________ 
+[2025-03-08 16:05:26] [GameMaster] [logger/info] |                                                 |
+[2025-03-08 16:05:26] [GameMaster] [logger/info] |               EXOLEGEND SOFTWARE                |
+[2025-03-08 16:05:26] [GameMaster] [logger/info] |          EXOTEC ~ ALL RIGHTS RESERVED           |
+[2025-03-08 16:05:26] [GameMaster] [logger/info] |_________________________________________________|
+[2025-03-08 16:05:26] [GameMaster] [logger/info] ---
+[2025-03-08 16:05:26] [GameMaster] [logger/info] ---    VERSION  3.0.6-4004acb3
+[2025-03-08 16:05:26] [GameMaster] [logger/info] ---    BUILD    1
+[2025-03-08 16:05:26] [GameMaster] [logger/info] EXOLEGEND uptodate ;) - READY to use !! 
+[2025-03-08 16:05:26] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 16:05:26] [GameMaster] [logger/info] Take random world: arena-c
+[2025-03-08 16:05:26] [GameMaster] [logger/info] HOST NAME : arena-c
+[2025-03-08 16:05:52] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 16:05:52] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 16:05:52] [GameMaster] [logger/info] Take random world: arena-d
+[2025-03-08 16:05:52] [GameMaster] [logger/info] HOST NAME : arena-d
+[2025-03-08 16:05:52] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [2, 2, 0, 2, 0, 2]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [4, 2, 0, 6, 2, 2]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [4, 2, 0, 2, 0, 2]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [2, 0, 2, 6, 2, 0]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [2, 0, 6, 2, 0, 2]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [0, 0, 4, 0, 0, 0]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] --------------------
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [11, 10, 8, 10, 8, 10, 12, 12, 8, 10, 14, 12]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [5, 2, 0, 6, 2, 2, 0, 0, 4, 4, 4, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [5, 2, 0, 2, 0, 2, 6, 6, 0, 0, 0, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [3, 0, 2, 6, 2, 0, 4, 4, 6, 4, 6, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [3, 0, 6, 2, 0, 2, 0, 4, 0, 4, 0, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [1, 0, 4, 0, 0, 0, 4, 0, 4, 4, 4, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [5, 4, 4, 0, 4, 0, 2, 0, 6, 2, 0, 6]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [1, 6, 0, 6, 0, 0, 0, 2, 6, 2, 0, 6]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [5, 4, 4, 4, 6, 2, 2, 4, 2, 0, 2, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [1, 0, 0, 4, 4, 0, 2, 2, 2, 0, 6, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [5, 6, 6, 0, 0, 0, 2, 4, 2, 0, 6, 6]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [7, 2, 2, 6, 6, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] --------------------
+[2025-03-08 16:05:52] [GameMaster] [logger/info] x: [0.40004475 0.37731858 0.87617235 0.63021142], y: [0.56001617 0.39747286 0.71999791 0.57709914]
+[2025-03-08 16:05:52] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 16:05:52] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 16:05:52] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [0, 0, 6, 2, 0, 2]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [6, 2, 0, 2, 2, 0]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [4, 2, 4, 2, 2, 0]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [4, 0, 6, 4, 0, 2]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [0, 6, 0, 2, 6, 0]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [0, 4, 0, 0, 0, 0]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] --------------------
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [9, 8, 14, 10, 8, 10, 8, 8, 10, 14, 10, 12]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [7, 2, 0, 2, 2, 0, 6, 2, 4, 4, 0, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [5, 2, 4, 2, 2, 0, 0, 4, 2, 2, 4, 6]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [5, 0, 6, 4, 0, 2, 4, 0, 6, 4, 4, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [1, 6, 0, 2, 6, 0, 4, 2, 4, 4, 0, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [1, 4, 0, 0, 0, 0, 0, 4, 0, 0, 4, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [5, 0, 0, 4, 2, 0, 0, 2, 2, 4, 2, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [1, 4, 4, 2, 4, 0, 6, 0, 0, 6, 0, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [7, 4, 6, 2, 4, 0, 0, 6, 6, 0, 6, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [5, 0, 0, 4, 2, 2, 0, 2, 6, 0, 6, 6]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [1, 6, 6, 2, 4, 0, 2, 0, 2, 2, 4, 4]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] [3, 6, 2, 2, 2, 2, 2, 2, 6, 2, 2, 6]
+[2025-03-08 16:05:52] [GameMaster] [logger/debug] --------------------
+[2025-03-08 16:05:52] [GameMaster] [logger/info] x: [0.22863309 0.36609576 1.02960417 0.57071194], y: [0.79205547 0.13581145 0.73532956 0.63772314]
+[2025-03-08 16:05:52] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 16:05:52] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 16:05:54] [GameMaster] [logger/info] 135 : new position jump detected
+[2025-03-08 16:05:56] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 16:05:56] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 16:06:09] [GameMaster] [logger/info] Robot take bomb !!
+[2025-03-08 16:06:09] [GameMaster] [logger/debug] Receive position spawn object {'x': 0.36834752559661865, 'y': 0.1529727280139923, 'a': -1.2831143140792847}
+[2025-03-08 16:06:09] [GameMaster] [logger/info] Robot drop bomb !!
+[2025-03-08 16:06:18] [GameMaster] [logger/info] Robot take bomb !!
+[2025-03-08 16:06:18] [GameMaster] [logger/debug] Receive position spawn object {'x': 0.3364075720310211, 'y': 0.8219857811927795, 'a': 0.905281126499176}
+[2025-03-08 16:06:18] [GameMaster] [logger/info] Robot drop bomb !!
+[2025-03-08 16:06:25] [GameMaster] [logger/info] Robot take bomb !!
+[2025-03-08 16:06:25] [GameMaster] [logger/debug] Receive position spawn object {'x': 0.6054073572158813, 'y': 0.8785178661346436, 'a': 0.21035154163837433}
+[2025-03-08 16:06:25] [GameMaster] [logger/info] Robot drop bomb !!
+[2025-03-08 16:06:38] [GameMaster] [logger/info] Robot take bomb !!
+[2025-03-08 16:06:38] [GameMaster] [logger/debug] Receive position spawn object {'x': 0.6548669338226318, 'y': 1.1183171272277832, 'a': 2.479316473007202}
+[2025-03-08 16:06:38] [GameMaster] [logger/info] Robot drop bomb !!
+[2025-03-08 16:06:50] [GameMaster] [logger/info] Robot take bomb !!
+[2025-03-08 16:06:50] [GameMaster] [logger/debug] Receive position spawn object {'x': 1.0871388912200928, 'y': 0.9105646014213562, 'a': -0.2666352689266205}
+[2025-03-08 16:06:50] [GameMaster] [logger/info] Robot drop bomb !!
+[2025-03-08 16:06:55] [GameMaster] [logger/info] Robot take bomb !!
+[2025-03-08 16:06:55] [GameMaster] [logger/debug] Receive position spawn object {'x': 1.141642451286316, 'y': 0.6386188864707947, 'a': -1.8367905616760254}
+[2025-03-08 16:06:55] [GameMaster] [logger/info] Robot drop bomb !!
+[2025-03-08 16:06:58] [GameMaster] [logger/info] Robot 135 killed because it's outside maze
+[2025-03-08 16:06:58] [GameMaster] [logger/info] Robot 135 killed outside Maze
+[2025-03-08 16:06:58] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 16:06:58] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 16:06:58] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 16:06:58] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:21:35] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:21:35] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:21:35] [GameMaster] [logger/info] Take random world: arena-d
+[2025-03-08 17:21:35] [GameMaster] [logger/info] HOST NAME : arena-d
+[2025-03-08 17:21:35] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [0, 2, 2, 4, 0, 0]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [0, 6, 2, 6, 6, 0]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [0, 2, 2, 6, 2, 0]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [4, 2, 4, 0, 4, 0]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [0, 2, 2, 6, 4, 0]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [0, 0, 4, 0, 0, 0]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [9, 10, 10, 12, 8, 8, 8, 8, 10, 8, 8, 12]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 6, 2, 6, 6, 0, 4, 4, 4, 4, 6, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 2, 2, 6, 2, 0, 6, 0, 6, 4, 4, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [5, 2, 4, 0, 4, 0, 4, 2, 4, 6, 2, 6]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 2, 2, 6, 4, 0, 0, 2, 6, 4, 2, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 2, 0, 2, 2, 0, 0, 0, 6, 2, 2, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [3, 6, 6, 0, 2, 0, 4, 4, 0, 0, 2, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 4, 4, 2, 4, 2, 4, 2, 6, 2, 6, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [5, 6, 4, 0, 4, 0, 0, 6, 2, 2, 2, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [5, 4, 4, 6, 4, 0, 4, 4, 0, 6, 2, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [3, 2, 2, 2, 2, 2, 2, 6, 2, 2, 2, 6]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:21:35] [GameMaster] [logger/info] x: [0.04741941 0.24325298 0.2913306  0.36472766], y: [0.4190774  0.44338726 1.02245375 0.40104703]
+[2025-03-08 17:21:35] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:21:35] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:21:35] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [2, 0, 2, 0, 2, 2]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [0, 6, 2, 2, 2, 0]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [4, 0, 2, 4, 0, 2]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [4, 2, 6, 2, 2, 2]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [2, 0, 2, 0, 2, 0]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [0, 4, 0, 4, 0, 0]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [11, 8, 10, 8, 10, 10, 12, 8, 10, 10, 12, 12]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 6, 2, 2, 2, 0, 2, 4, 0, 4, 2, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [5, 0, 2, 4, 0, 2, 4, 4, 6, 4, 4, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [5, 2, 6, 2, 2, 2, 2, 4, 0, 6, 0, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [3, 0, 2, 0, 2, 0, 4, 4, 0, 4, 4, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 4, 0, 4, 0, 0, 0, 4, 4, 0, 4, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [5, 0, 4, 4, 0, 0, 0, 6, 0, 6, 0, 6]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [5, 4, 2, 4, 4, 2, 2, 2, 2, 2, 2, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 4, 0, 6, 0, 0, 2, 0, 4, 2, 4, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [5, 6, 4, 4, 4, 2, 0, 6, 2, 2, 6, 4]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [1, 4, 2, 6, 0, 0, 2, 2, 0, 6, 0, 6]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] [7, 2, 2, 2, 6, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 17:21:35] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:21:35] [GameMaster] [logger/info] x: [0.49993456 0.54194871 0.03082253 0.22567876], y: [0.58399011 0.46548907 0.68823701 1.09480264]
+[2025-03-08 17:21:35] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:21:35] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:21:38] [GameMaster] [logger/info] 138 : new position jump detected
+[2025-03-08 17:21:39] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:21:39] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:21:43] [GameMaster] [logger/info] 138 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:21:43] [GameMaster] [logger/info] - position.X = 0.12000000059604644
+[2025-03-08 17:21:43] [GameMaster] [logger/info] - position.Y = 1.6138399839401245
+[2025-03-08 17:21:43] [GameMaster] [logger/info] Robot 138 killed inside Maze
+[2025-03-08 17:21:43] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:21:43] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:21:43] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:21:43] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:21:51] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:21:51] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:21:51] [GameMaster] [logger/info] Take random world: arena-b
+[2025-03-08 17:21:51] [GameMaster] [logger/info] HOST NAME : arena-b
+[2025-03-08 17:21:51] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [2, 0, 0, 6, 4, 0]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [2, 6, 0, 0, 4, 0]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [0, 2, 6, 4, 2, 0]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [2, 4, 2, 4, 2, 2]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [2, 4, 0, 6, 4, 0]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [0, 4, 0, 0, 0, 0]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [11, 8, 8, 14, 12, 8, 12, 12, 8, 12, 12, 12]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 6, 0, 0, 4, 0, 2, 2, 6, 4, 2, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [1, 2, 6, 4, 2, 0, 0, 4, 4, 2, 0, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 4, 2, 4, 2, 2, 4, 2, 2, 2, 4, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 4, 0, 6, 4, 0, 0, 6, 4, 0, 2, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [1, 4, 0, 0, 0, 0, 0, 4, 0, 0, 0, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 2, 0, 4, 2, 0, 0, 0, 2, 4, 0, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 0, 6, 6, 2, 0, 6, 6, 0, 6, 0, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [5, 0, 2, 0, 4, 0, 0, 6, 0, 6, 2, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [1, 2, 4, 6, 2, 2, 0, 4, 4, 0, 2, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [1, 4, 4, 0, 0, 0, 4, 0, 2, 4, 0, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [7, 6, 2, 6, 6, 2, 6, 6, 2, 2, 2, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:21:51] [GameMaster] [logger/info] x: [0.46898381 0.45753258 0.46511999 0.9723602 ], y: [0.80723096 0.78333883 0.51849615 0.5748056 ]
+[2025-03-08 17:21:51] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:21:51] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:21:51] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [4, 0, 2, 6, 0, 2]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [0, 6, 0, 4, 2, 0]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [2, 0, 6, 0, 0, 2]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [2, 4, 2, 6, 6, 0]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [2, 2, 4, 2, 4, 0]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [13, 8, 10, 14, 8, 10, 12, 12, 12, 8, 8, 14]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [1, 6, 0, 4, 2, 0, 4, 0, 2, 4, 2, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 0, 6, 0, 0, 2, 0, 6, 4, 2, 4, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 4, 2, 6, 6, 0, 4, 4, 2, 0, 6, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 2, 4, 2, 4, 0, 0, 6, 2, 4, 0, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 4, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [5, 0, 4, 2, 2, 0, 0, 0, 2, 0, 2, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 6, 0, 6, 0, 0, 4, 2, 6, 2, 0, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [5, 0, 2, 4, 6, 0, 6, 4, 0, 6, 0, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [5, 2, 4, 6, 0, 0, 0, 2, 4, 0, 2, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 4, 0, 0, 4, 0, 2, 4, 2, 6, 0, 4]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] [3, 2, 6, 6, 6, 2, 2, 6, 2, 2, 6, 6]
+[2025-03-08 17:21:51] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:21:51] [GameMaster] [logger/info] x: [0.25864966 0.49438614 0.48380202 0.54710747], y: [0.38402893 0.52858953 0.561864   0.00310235]
+[2025-03-08 17:21:51] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:21:51] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:21:53] [GameMaster] [logger/info] 39 : new position jump detected
+[2025-03-08 17:21:54] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:21:54] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:21:58] [GameMaster] [logger/info] 39 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:21:58] [GameMaster] [logger/info] - position.X = 0.0991217026313518
+[2025-03-08 17:21:58] [GameMaster] [logger/info] - position.Y = 1.6144152280699657
+[2025-03-08 17:21:58] [GameMaster] [logger/info] Robot 39 killed inside Maze
+[2025-03-08 17:21:58] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:21:58] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:21:58] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:21:58] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:22:59] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:22:59] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:22:59] [GameMaster] [logger/info] Take random world: arena-c
+[2025-03-08 17:22:59] [GameMaster] [logger/info] HOST NAME : arena-c
+[2025-03-08 17:22:59] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [2, 0, 6, 0, 2, 0]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [0, 2, 0, 6, 2, 0]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [2, 4, 6, 2, 0, 0]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [0, 6, 4, 2, 6, 2]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [4, 4, 0, 2, 4, 0]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [0, 0, 4, 0, 0, 0]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [11, 8, 14, 8, 10, 8, 8, 10, 12, 8, 12, 12]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 2, 0, 6, 2, 0, 0, 6, 2, 6, 0, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [3, 4, 6, 2, 0, 0, 2, 0, 6, 2, 4, 6]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 6, 4, 2, 6, 2, 4, 4, 4, 4, 2, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [5, 4, 0, 2, 4, 0, 0, 6, 2, 4, 4, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 0, 4, 0, 0, 0, 0, 4, 0, 0, 0, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 0, 0, 6, 2, 0, 0, 0, 6, 0, 0, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [5, 6, 0, 4, 0, 0, 6, 2, 2, 4, 6, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [3, 4, 6, 6, 4, 2, 4, 0, 6, 6, 0, 6]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [5, 0, 6, 2, 2, 0, 0, 2, 6, 4, 2, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 4, 0, 4, 2, 0, 0, 6, 0, 2, 0, 6]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [7, 2, 6, 2, 2, 2, 2, 2, 6, 2, 2, 6]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:22:59] [GameMaster] [logger/info] x: [0.32500889 0.66842246 0.29228642 0.94281425], y: [0.35542104 0.70587905 0.01664084 0.4866283 ]
+[2025-03-08 17:22:59] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:22:59] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:22:59] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [2, 0, 2, 2, 0, 2]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [0, 6, 2, 0, 0, 2]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [2, 2, 6, 4, 2, 2]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [0, 2, 2, 0, 6, 0]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [0, 6, 0, 2, 6, 0]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [0, 4, 0, 0, 0, 0]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [11, 8, 10, 10, 8, 10, 8, 8, 12, 8, 12, 12]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 6, 2, 0, 0, 2, 6, 6, 4, 4, 2, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [3, 2, 6, 4, 2, 2, 0, 4, 4, 6, 4, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 2, 2, 0, 6, 0, 4, 0, 0, 2, 4, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 6, 0, 2, 6, 0, 4, 6, 6, 0, 0, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 4, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [5, 4, 4, 2, 2, 0, 0, 2, 2, 4, 2, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 0, 6, 4, 4, 0, 4, 2, 0, 6, 2, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [5, 0, 2, 0, 4, 0, 6, 2, 0, 2, 2, 6]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [5, 6, 4, 4, 2, 2, 2, 4, 4, 2, 2, 4]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [1, 4, 4, 4, 4, 0, 2, 0, 2, 6, 0, 6]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] [7, 2, 6, 2, 2, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 17:22:59] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:22:59] [GameMaster] [logger/info] x: [0.55707064 0.4226247  0.63963796 0.38171959], y: [0.27414962 0.51073378 0.66188122 0.59034043]
+[2025-03-08 17:22:59] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:22:59] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:23:01] [GameMaster] [logger/info] 63 : new position jump detected
+[2025-03-08 17:23:03] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:23:03] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:23:06] [GameMaster] [logger/info] 63 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:23:06] [GameMaster] [logger/info] - position.X = 0.12000000059604644
+[2025-03-08 17:23:06] [GameMaster] [logger/info] - position.Y = 1.6138399839401245
+[2025-03-08 17:23:06] [GameMaster] [logger/info] Robot 63 killed inside Maze
+[2025-03-08 17:23:06] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:23:06] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:23:06] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:23:06] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:28:04] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:28:04] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:28:04] [GameMaster] [logger/info] Take random world: arena-d
+[2025-03-08 17:28:04] [GameMaster] [logger/info] HOST NAME : arena-d
+[2025-03-08 17:28:04] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [2, 2, 2, 2, 0, 2]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [4, 0, 6, 2, 0, 2]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [2, 2, 0, 2, 2, 0]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [4, 2, 4, 2, 0, 2]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [2, 0, 2, 6, 6, 0]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [11, 10, 10, 10, 8, 10, 12, 8, 14, 8, 14, 12]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [5, 0, 6, 2, 0, 2, 0, 4, 4, 0, 4, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [3, 2, 0, 2, 2, 0, 4, 0, 2, 4, 6, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [5, 2, 4, 2, 0, 2, 4, 6, 4, 4, 4, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [3, 0, 2, 6, 6, 0, 4, 2, 4, 0, 0, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 0, 4, 0, 4, 4, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [5, 4, 0, 4, 2, 0, 0, 2, 2, 2, 0, 6]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [1, 0, 4, 0, 6, 0, 6, 4, 2, 0, 2, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [5, 6, 4, 6, 4, 0, 0, 2, 6, 0, 6, 6]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [5, 4, 0, 0, 4, 0, 2, 0, 2, 2, 0, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [5, 2, 4, 6, 0, 0, 2, 0, 6, 2, 6, 6]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [7, 2, 6, 2, 6, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:28:04] [GameMaster] [logger/info] x: [0.61844719 0.40746054 0.48037615 0.59727352], y: [0.829124   0.90079817 0.41230794 0.34559663]
+[2025-03-08 17:28:04] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:28:04] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:28:04] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [2, 2, 0, 6, 2, 0]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [2, 0, 6, 4, 0, 2]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [0, 6, 2, 2, 4, 0]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [4, 4, 4, 2, 0, 2]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [0, 6, 2, 2, 0, 0]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [0, 0, 0, 0, 4, 0]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [11, 10, 8, 14, 10, 8, 8, 8, 10, 12, 12, 12]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [3, 0, 6, 4, 0, 2, 4, 2, 6, 2, 4, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [1, 6, 2, 2, 4, 0, 4, 0, 6, 4, 2, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [5, 4, 4, 2, 0, 2, 4, 4, 4, 0, 6, 6]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [1, 6, 2, 2, 0, 0, 2, 0, 0, 2, 4, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [1, 0, 0, 0, 4, 0, 0, 4, 0, 4, 0, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [1, 4, 2, 4, 0, 2, 4, 0, 2, 2, 2, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [7, 2, 0, 0, 0, 0, 2, 0, 2, 4, 0, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [5, 2, 4, 6, 4, 0, 0, 0, 6, 6, 6, 4]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [1, 4, 6, 2, 6, 0, 6, 0, 0, 6, 0, 6]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [5, 0, 4, 2, 4, 0, 0, 6, 6, 0, 2, 6]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] [7, 6, 2, 2, 2, 2, 2, 6, 2, 2, 2, 6]
+[2025-03-08 17:28:04] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:28:04] [GameMaster] [logger/info] x: [0.40570685 0.71146424 0.76036159 0.45349463], y: [0.29404869 0.41308696 0.6202319  0.44604762]
+[2025-03-08 17:28:04] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:28:04] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:28:06] [GameMaster] [logger/info] 25 : new position jump detected
+[2025-03-08 17:28:07] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:28:07] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:28:11] [GameMaster] [logger/info] 25 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:28:11] [GameMaster] [logger/info] - position.X = 0.12000000059604644
+[2025-03-08 17:28:11] [GameMaster] [logger/info] - position.Y = 1.6138399839401245
+[2025-03-08 17:28:11] [GameMaster] [logger/info] Robot 25 killed inside Maze
+[2025-03-08 17:28:11] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:28:11] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:28:11] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:28:11] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:28:43] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:28:43] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:28:43] [GameMaster] [logger/info] Take random world: arena-c
+[2025-03-08 17:28:43] [GameMaster] [logger/info] HOST NAME : arena-c
+[2025-03-08 17:28:43] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [0, 4, 0, 2, 2, 0]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [6, 2, 2, 0, 6, 0]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [4, 2, 2, 4, 2, 0]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [0, 0, 0, 2, 6, 2]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [4, 6, 2, 2, 4, 0]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [0, 0, 4, 0, 0, 0]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [9, 12, 8, 10, 10, 8, 8, 10, 8, 14, 10, 12]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [7, 2, 2, 0, 6, 0, 4, 2, 4, 4, 0, 6]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [5, 2, 2, 4, 2, 0, 6, 0, 4, 4, 0, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [1, 0, 0, 2, 6, 2, 4, 4, 0, 2, 4, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [5, 6, 2, 2, 4, 0, 0, 6, 6, 4, 6, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [1, 0, 4, 0, 0, 0, 0, 4, 0, 0, 0, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [1, 2, 0, 6, 2, 0, 0, 0, 6, 2, 2, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [5, 4, 6, 4, 0, 0, 6, 2, 2, 4, 4, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [5, 0, 0, 4, 4, 2, 4, 2, 0, 2, 2, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [3, 4, 4, 0, 6, 0, 0, 6, 0, 2, 6, 6]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [1, 6, 6, 0, 6, 0, 4, 2, 2, 0, 4, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [3, 6, 2, 2, 2, 2, 2, 2, 2, 6, 2, 6]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:28:43] [GameMaster] [logger/info] x: [0.39486391 0.29585928 0.47291437 0.26465239], y: [1.01652211 0.43978106 0.47742666 0.67935169]
+[2025-03-08 17:28:43] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:28:43] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:28:43] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [2, 0, 6, 0, 0, 2]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [0, 2, 6, 6, 0, 2]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [0, 2, 2, 0, 2, 0]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [2, 6, 2, 4, 4, 0]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [2, 0, 2, 6, 2, 0]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [0, 0, 0, 4, 0, 0]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [11, 8, 14, 8, 8, 10, 12, 12, 8, 8, 12, 12]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [1, 2, 6, 6, 0, 2, 0, 4, 6, 4, 0, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [1, 2, 2, 0, 2, 0, 4, 4, 4, 4, 6, 6]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [3, 6, 2, 4, 4, 0, 6, 2, 2, 4, 2, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [3, 0, 2, 6, 2, 0, 4, 0, 6, 0, 0, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [1, 0, 0, 4, 0, 0, 0, 0, 0, 4, 4, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [5, 4, 0, 2, 0, 0, 0, 6, 2, 2, 0, 6]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [1, 2, 4, 2, 6, 2, 0, 4, 0, 2, 2, 6]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [3, 6, 0, 0, 4, 0, 4, 6, 0, 6, 2, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [5, 4, 4, 6, 4, 0, 2, 0, 2, 2, 2, 4]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [1, 4, 4, 4, 0, 0, 2, 4, 4, 2, 0, 6]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] [7, 2, 2, 6, 6, 2, 2, 2, 6, 2, 2, 6]
+[2025-03-08 17:28:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:28:43] [GameMaster] [logger/info] x: [0.47605437 0.69285744 0.59518743 0.28080884], y: [0.36503947 1.03372312 0.53199353 0.07092968]
+[2025-03-08 17:28:43] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:28:43] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:28:44] [GameMaster] [logger/info] 121 : new position jump detected
+[2025-03-08 17:28:46] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:28:46] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:28:49] [GameMaster] [logger/info] 121 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:28:49] [GameMaster] [logger/info] - position.X = 0.12000000059604644
+[2025-03-08 17:28:49] [GameMaster] [logger/info] - position.Y = 1.6138399839401245
+[2025-03-08 17:28:49] [GameMaster] [logger/info] Robot 121 killed inside Maze
+[2025-03-08 17:28:49] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:28:49] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:28:49] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:28:49] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:29:06] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:29:06] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:29:06] [GameMaster] [logger/info] Take random world: arena-b
+[2025-03-08 17:29:06] [GameMaster] [logger/info] HOST NAME : arena-b
+[2025-03-08 17:29:06] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [2, 4, 2, 0, 2, 0]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [2, 2, 2, 2, 4, 2]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [2, 0, 4, 4, 4, 0]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [0, 4, 4, 2, 2, 0]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [4, 6, 6, 2, 0, 2]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [11, 12, 10, 8, 10, 8, 8, 10, 12, 12, 12, 12]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [3, 2, 2, 2, 4, 2, 4, 2, 2, 4, 0, 6]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [3, 0, 4, 4, 4, 0, 4, 2, 2, 6, 4, 4]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [1, 4, 4, 2, 2, 0, 4, 4, 0, 6, 0, 4]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [5, 6, 6, 2, 0, 2, 0, 4, 0, 2, 6, 4]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 4, 0, 0, 4, 0, 4]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [1, 6, 2, 0, 4, 0, 2, 0, 2, 2, 2, 4]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [5, 0, 2, 4, 0, 0, 0, 2, 6, 4, 4, 4]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [1, 4, 2, 6, 6, 0, 0, 0, 4, 4, 0, 6]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [7, 4, 0, 2, 6, 0, 6, 4, 6, 2, 2, 6]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [1, 4, 0, 0, 6, 0, 4, 2, 0, 2, 0, 6]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] [7, 6, 6, 2, 2, 2, 2, 2, 2, 6, 2, 6]
+[2025-03-08 17:29:06] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:29:06] [GameMaster] [logger/info] x: [0.70353853 0.62157174 0.15978867 0.10213609], y: [0.59453296 0.89724888 0.42521874 0.90208232]
+[2025-03-08 17:29:06] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:29:06] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:29:06] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [2, 4, 2, 2, 2, 0]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [4, 2, 0, 2, 0, 2]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [0, 6, 4, 2, 2, 0]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [4, 0, 0, 6, 2, 2]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [2, 6, 4, 2, 2, 0]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [11, 12, 10, 10, 10, 8, 12, 8, 10, 8, 14, 12]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [5, 2, 0, 2, 0, 2, 4, 2, 4, 6, 0, 6]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [1, 6, 4, 2, 2, 0, 0, 2, 0, 2, 4, 4]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [5, 0, 0, 6, 2, 2, 4, 4, 6, 4, 4, 4]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [3, 6, 4, 2, 2, 0, 4, 4, 4, 0, 4, 4]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 0, 4, 0, 4, 0, 4]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [1, 4, 0, 4, 0, 0, 0, 2, 2, 0, 2, 6]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [5, 0, 4, 6, 4, 0, 2, 2, 6, 4, 0, 4]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [5, 4, 6, 4, 6, 0, 0, 6, 2, 0, 6, 4]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [7, 0, 2, 0, 2, 0, 2, 0, 6, 4, 2, 4]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [1, 6, 4, 2, 4, 0, 0, 2, 2, 2, 4, 6]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] [7, 2, 2, 2, 6, 2, 2, 2, 2, 6, 2, 6]
+[2025-03-08 17:29:07] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:29:07] [GameMaster] [logger/info] x: [0.16243403 0.65664489 0.44012452 0.48954387], y: [1.00347639 0.25596278 0.73541784 0.00108496]
+[2025-03-08 17:29:07] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:29:07] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:29:08] [GameMaster] [logger/info] 83 : new position jump detected
+[2025-03-08 17:29:10] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:29:10] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:29:13] [GameMaster] [logger/info] 83 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:29:13] [GameMaster] [logger/info] - position.X = 0.12000000059604644
+[2025-03-08 17:29:13] [GameMaster] [logger/info] - position.Y = 1.6138399839401245
+[2025-03-08 17:29:13] [GameMaster] [logger/info] Robot 83 killed inside Maze
+[2025-03-08 17:29:13] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:29:13] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:29:13] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:29:13] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:30:02] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:30:02] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:30:02] [GameMaster] [logger/info] Take random world: arena-c
+[2025-03-08 17:30:02] [GameMaster] [logger/info] HOST NAME : arena-c
+[2025-03-08 17:30:02] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [2, 2, 0, 2, 6, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [0, 6, 2, 4, 0, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [0, 6, 2, 0, 4, 2]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [2, 2, 2, 4, 2, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [0, 2, 2, 6, 2, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [0, 0, 4, 0, 0, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [11, 10, 8, 10, 14, 8, 8, 12, 8, 8, 12, 12]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 6, 2, 4, 0, 0, 4, 4, 4, 6, 6, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 6, 2, 0, 4, 2, 6, 4, 4, 4, 0, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [3, 2, 2, 4, 2, 0, 4, 2, 2, 0, 6, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 2, 2, 6, 2, 0, 4, 4, 0, 2, 4, 6]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 0, 4, 0, 0, 0, 0, 0, 4, 0, 0, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [3, 0, 6, 0, 0, 0, 0, 2, 6, 2, 2, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [5, 2, 0, 6, 6, 0, 0, 6, 0, 2, 2, 6]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [5, 0, 0, 0, 4, 2, 2, 4, 0, 2, 2, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 6, 6, 4, 4, 0, 4, 0, 0, 6, 2, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [5, 4, 4, 4, 4, 0, 0, 6, 2, 4, 2, 6]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [7, 2, 2, 6, 2, 2, 6, 2, 2, 2, 2, 6]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:02] [GameMaster] [logger/info] x: [0.72043841 0.31981824 0.78538862 0.18272895], y: [0.36153955 0.84789788 0.59042058 0.18249379]
+[2025-03-08 17:30:02] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:30:02] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:30:02] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [2, 0, 2, 0, 2, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [0, 6, 2, 2, 4, 2]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [2, 2, 0, 6, 6, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [2, 2, 2, 0, 2, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [4, 0, 2, 2, 6, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [0, 4, 0, 0, 0, 0]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [11, 8, 10, 8, 10, 8, 8, 14, 12, 8, 12, 12]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 6, 2, 2, 4, 2, 2, 4, 4, 4, 2, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [3, 2, 0, 6, 6, 0, 4, 4, 0, 4, 4, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [3, 2, 2, 0, 2, 0, 4, 0, 4, 6, 0, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [5, 0, 2, 2, 6, 0, 4, 6, 4, 2, 6, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 6, 2, 0, 2, 0, 0, 2, 2, 6, 0, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [5, 0, 6, 4, 4, 0, 4, 2, 0, 2, 6, 6]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 4, 4, 0, 4, 0, 0, 2, 2, 0, 2, 6]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [5, 6, 0, 4, 4, 2, 6, 4, 2, 2, 2, 4]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [1, 4, 4, 4, 2, 0, 4, 2, 0, 6, 0, 6]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] [7, 2, 6, 6, 2, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 17:30:02] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:02] [GameMaster] [logger/info] x: [0.68219614 0.1533061  0.06830913 0.0304394 ], y: [0.75584538 0.5811123  0.48519334 0.68664107]
+[2025-03-08 17:30:02] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:30:02] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:30:04] [GameMaster] [logger/info] 37 : new position jump detected
+[2025-03-08 17:30:06] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:30:06] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:30:09] [GameMaster] [logger/info] 37 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:30:09] [GameMaster] [logger/info] - position.X = 0.10080362181298429
+[2025-03-08 17:30:09] [GameMaster] [logger/info] - position.Y = 1.614432386630197
+[2025-03-08 17:30:09] [GameMaster] [logger/info] Robot 37 killed inside Maze
+[2025-03-08 17:30:09] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:30:09] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:30:09] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:30:09] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:30:16] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:30:16] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:30:16] [GameMaster] [logger/info] Take random world: arena-a
+[2025-03-08 17:30:16] [GameMaster] [logger/info] HOST NAME : arena-a
+[2025-03-08 17:30:16] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [0, 4, 2, 0, 6, 0]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [4, 6, 2, 4, 0, 2]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [2, 2, 0, 4, 0, 2]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [0, 6, 6, 0, 2, 2]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [4, 0, 6, 0, 2, 2]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [9, 12, 10, 8, 14, 8, 8, 10, 12, 8, 10, 12]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [5, 6, 2, 4, 0, 2, 0, 4, 6, 4, 2, 6]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [3, 2, 0, 4, 0, 2, 4, 6, 2, 4, 4, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [1, 6, 6, 0, 2, 2, 0, 0, 0, 2, 2, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [5, 0, 6, 0, 2, 2, 4, 4, 0, 0, 4, 6]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [3, 4, 4, 4, 4, 0, 2, 2, 0, 2, 0, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [5, 2, 2, 4, 4, 0, 2, 2, 4, 2, 6, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [1, 0, 0, 2, 2, 0, 2, 0, 4, 4, 2, 6]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [7, 6, 0, 6, 4, 0, 2, 4, 0, 2, 2, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [1, 6, 4, 4, 2, 0, 0, 6, 0, 6, 4, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [3, 2, 6, 2, 2, 2, 6, 2, 2, 6, 2, 6]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:16] [GameMaster] [logger/info] x: [0.50451685 0.46935873 1.25069495 0.40860978], y: [0.83414284 0.50517454 0.48282751 0.65427   ]
+[2025-03-08 17:30:16] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:30:16] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:30:16] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [2, 2, 2, 4, 2, 0]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [0, 0, 6, 2, 0, 2]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [6, 0, 2, 4, 0, 2]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [0, 2, 6, 6, 2, 0]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [2, 2, 4, 2, 4, 0]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [11, 10, 10, 12, 10, 8, 12, 8, 12, 10, 12, 12]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [1, 0, 6, 2, 0, 2, 4, 4, 0, 0, 4, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [7, 0, 2, 4, 0, 2, 0, 6, 6, 4, 6, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [1, 2, 6, 6, 2, 0, 4, 4, 2, 6, 0, 6]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [3, 2, 4, 2, 4, 0, 0, 6, 0, 0, 4, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [1, 4, 4, 0, 2, 0, 0, 0, 2, 0, 2, 6]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [7, 0, 2, 6, 0, 0, 4, 2, 6, 2, 2, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [1, 6, 0, 6, 6, 0, 2, 4, 4, 2, 0, 6]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [5, 4, 4, 4, 0, 0, 2, 4, 2, 2, 4, 4]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [5, 0, 2, 4, 4, 0, 0, 2, 4, 2, 2, 6]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] [7, 2, 6, 2, 6, 2, 2, 6, 2, 2, 2, 6]
+[2025-03-08 17:30:16] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:16] [GameMaster] [logger/info] x: [0.4398968  0.51532417 0.2032018  0.13680204], y: [0.30867891 0.18912758 0.86589918 0.29722682]
+[2025-03-08 17:30:16] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:30:16] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:30:18] [GameMaster] [logger/info] 80 : new position jump detected
+[2025-03-08 17:30:19] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:30:19] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:30:23] [GameMaster] [logger/info] 80 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:30:23] [GameMaster] [logger/info] - position.X = 0.12000000059604644
+[2025-03-08 17:30:23] [GameMaster] [logger/info] - position.Y = 1.6138399839401245
+[2025-03-08 17:30:23] [GameMaster] [logger/info] Robot 80 killed inside Maze
+[2025-03-08 17:30:23] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:30:23] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:30:23] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:30:23] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:30:43] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:30:43] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:30:43] [GameMaster] [logger/info] Take random world: arena-c
+[2025-03-08 17:30:43] [GameMaster] [logger/info] HOST NAME : arena-c
+[2025-03-08 17:30:43] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [0, 2, 6, 2, 2, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [4, 4, 2, 0, 6, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [0, 2, 6, 0, 6, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [2, 2, 2, 4, 2, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [4, 2, 0, 2, 6, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [9, 10, 14, 10, 10, 8, 8, 14, 8, 8, 10, 12]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [5, 4, 2, 0, 6, 0, 4, 4, 4, 0, 6, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [1, 2, 6, 0, 6, 0, 0, 4, 4, 6, 4, 6]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [3, 2, 2, 4, 2, 0, 4, 0, 2, 0, 4, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [5, 2, 0, 2, 6, 0, 4, 6, 4, 6, 6, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [1, 2, 2, 0, 2, 0, 0, 2, 2, 0, 2, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [5, 4, 4, 6, 4, 0, 4, 2, 0, 2, 6, 6]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [7, 0, 2, 0, 4, 0, 0, 6, 0, 2, 2, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [5, 6, 4, 4, 0, 0, 4, 2, 4, 2, 0, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [5, 2, 4, 4, 6, 0, 4, 2, 2, 6, 6, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [3, 2, 2, 6, 2, 2, 2, 2, 6, 2, 2, 6]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:43] [GameMaster] [logger/info] x: [0.47896655 0.50742402 0.53951071 0.25992281], y: [0.58752845 0.94067443 0.41892102 0.40318353]
+[2025-03-08 17:30:43] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:30:43] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:30:43] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [0, 6, 2, 0, 6, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [4, 2, 0, 2, 2, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [0, 2, 2, 2, 6, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [6, 2, 0, 2, 0, 2]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [2, 0, 6, 2, 0, 2]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [0, 4, 0, 0, 0, 0]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [9, 14, 10, 8, 14, 8, 12, 12, 10, 8, 10, 12]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [5, 2, 0, 2, 2, 0, 2, 4, 4, 4, 4, 6]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [1, 2, 2, 2, 6, 0, 4, 2, 4, 0, 4, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [7, 2, 0, 2, 0, 2, 4, 4, 4, 4, 0, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [3, 0, 6, 2, 0, 2, 0, 0, 4, 6, 4, 6]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [1, 4, 0, 0, 0, 0, 4, 4, 0, 0, 0, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [3, 0, 2, 4, 4, 0, 2, 0, 2, 6, 0, 6]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [5, 4, 4, 0, 0, 0, 2, 0, 6, 0, 2, 6]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [1, 4, 4, 4, 6, 0, 0, 2, 2, 2, 6, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [7, 0, 4, 0, 4, 2, 4, 2, 2, 0, 2, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [5, 6, 4, 6, 0, 0, 0, 2, 0, 2, 6, 4]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] [3, 2, 2, 6, 6, 2, 6, 2, 2, 6, 2, 6]
+[2025-03-08 17:30:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:30:43] [GameMaster] [logger/info] x: [0.50782002 0.58638132 0.2423574  0.52381097], y: [0.24111938 0.08053294 0.40056554 0.52237697]
+[2025-03-08 17:30:43] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:30:43] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:30:46] [GameMaster] [logger/info] 116 : new position jump detected
+[2025-03-08 17:30:47] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:30:47] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:30:59] [GameMaster] [logger/info] Robot 116 killed because it's outside maze
+[2025-03-08 17:30:59] [GameMaster] [logger/info] Robot 116 killed outside Maze
+[2025-03-08 17:30:59] [GameMaster] [logger/info] team 1 : TeamState.LOSER
+[2025-03-08 17:30:59] [GameMaster] [logger/info] team 2 : TeamState.WINNER
+[2025-03-08 17:30:59] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:30:59] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:31:23] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:31:23] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:31:23] [GameMaster] [logger/info] Take random world: arena-c
+[2025-03-08 17:31:23] [GameMaster] [logger/info] HOST NAME : arena-c
+[2025-03-08 17:31:23] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [0, 2, 2, 0, 2, 0]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [2, 2, 6, 6, 0, 2]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [0, 6, 0, 2, 0, 2]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [0, 6, 2, 4, 2, 2]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [0, 2, 2, 4, 0, 2]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [4, 0, 0, 0, 0, 0]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [9, 10, 10, 8, 10, 8, 10, 8, 8, 12, 8, 12]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [3, 2, 6, 6, 0, 2, 4, 4, 6, 6, 4, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [1, 6, 0, 2, 0, 2, 4, 4, 0, 4, 6, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [1, 6, 2, 4, 2, 2, 0, 2, 6, 4, 2, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [1, 2, 2, 4, 0, 2, 0, 4, 0, 0, 4, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [5, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [1, 4, 4, 4, 4, 0, 2, 0, 0, 2, 6, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [5, 2, 0, 6, 2, 0, 2, 6, 0, 2, 2, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [1, 6, 4, 0, 0, 0, 2, 4, 2, 4, 2, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [5, 4, 2, 6, 4, 0, 2, 0, 2, 6, 2, 6]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [5, 4, 4, 4, 4, 2, 0, 6, 4, 2, 2, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [3, 6, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:23] [GameMaster] [logger/info] x: [0.80094103 1.07369828 0.2195031  0.06814352], y: [0.4532808  0.91953313 1.28160019 0.5502308 ]
+[2025-03-08 17:31:23] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:31:23] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:31:23] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [4, 2, 2, 0, 6, 0]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [0, 0, 4, 2, 0, 0]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [6, 6, 0, 6, 4, 2]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [2, 2, 0, 0, 6, 0]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [2, 0, 4, 2, 2, 2]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [0, 4, 0, 0, 0, 0]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [13, 10, 10, 8, 14, 8, 12, 12, 12, 10, 8, 14]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [1, 0, 4, 2, 0, 0, 2, 4, 4, 2, 4, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [7, 6, 0, 6, 4, 2, 0, 2, 0, 0, 6, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [3, 2, 0, 0, 6, 0, 4, 0, 4, 6, 0, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [3, 0, 4, 2, 2, 2, 4, 4, 2, 2, 4, 6]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [1, 4, 0, 0, 0, 0, 4, 0, 4, 0, 0, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [3, 0, 6, 2, 4, 0, 2, 2, 2, 4, 0, 6]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [5, 0, 2, 4, 4, 0, 0, 2, 4, 0, 2, 6]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [1, 6, 4, 0, 6, 0, 6, 0, 2, 0, 2, 6]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [5, 0, 2, 0, 0, 2, 4, 4, 2, 4, 4, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [7, 0, 6, 4, 0, 0, 0, 2, 4, 2, 2, 4]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] [3, 2, 6, 6, 6, 2, 6, 2, 2, 2, 6, 6]
+[2025-03-08 17:31:23] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:23] [GameMaster] [logger/info] x: [0.67790386 1.05694181 0.49784903 0.50620626], y: [0.22707503 0.9863564  0.30770142 0.24356731]
+[2025-03-08 17:31:23] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:31:23] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:31:27] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:31:27] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:31:27] [GameMaster] [logger/info] Take random world: arena-b
+[2025-03-08 17:31:27] [GameMaster] [logger/info] HOST NAME : arena-b
+[2025-03-08 17:31:27] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [4, 0, 4, 2, 0, 2]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [2, 4, 2, 2, 6, 0]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [0, 2, 6, 0, 2, 0]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [2, 0, 2, 2, 6, 2]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [0, 6, 2, 0, 2, 2]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [13, 8, 12, 10, 8, 10, 8, 12, 8, 12, 8, 14]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [3, 4, 2, 2, 6, 0, 4, 2, 4, 0, 2, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 2, 6, 0, 2, 0, 4, 4, 4, 6, 0, 6]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [3, 0, 2, 2, 6, 2, 0, 4, 0, 4, 4, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 6, 2, 0, 2, 2, 4, 4, 6, 4, 2, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 4, 4, 0, 0, 4, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [5, 2, 0, 6, 4, 0, 2, 2, 0, 2, 2, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 4, 4, 4, 4, 0, 2, 2, 2, 6, 0, 6]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [7, 4, 2, 4, 0, 0, 4, 2, 0, 2, 2, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 6, 4, 4, 6, 0, 0, 2, 6, 2, 0, 6]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [3, 0, 4, 0, 4, 0, 6, 0, 2, 4, 0, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [3, 6, 2, 6, 2, 2, 2, 2, 6, 2, 6, 6]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:27] [GameMaster] [logger/info] x: [0.37398672 0.14024114 0.47708126 0.31780275], y: [0.06584932 0.41358352 0.28015385 0.57962644]
+[2025-03-08 17:31:27] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:31:27] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:31:27] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [2, 2, 0, 2, 2, 0]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [4, 0, 2, 2, 6, 2]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [0, 6, 4, 2, 0, 2]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [0, 2, 2, 2, 0, 2]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [0, 2, 2, 6, 0, 2]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [0, 0, 4, 0, 0, 0]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [11, 10, 8, 10, 10, 8, 8, 8, 8, 8, 14, 12]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [5, 0, 2, 2, 6, 2, 4, 4, 4, 2, 4, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 6, 4, 2, 0, 2, 6, 4, 0, 6, 0, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 2, 2, 2, 0, 2, 4, 6, 4, 4, 4, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 2, 2, 6, 0, 2, 0, 0, 0, 4, 6, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 0, 4, 0, 0, 0, 4, 4, 4, 4, 0, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 6, 4, 4, 4, 0, 2, 0, 6, 2, 2, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [5, 4, 0, 0, 2, 0, 2, 4, 2, 2, 2, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [5, 4, 6, 4, 4, 2, 2, 0, 2, 0, 2, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [1, 4, 2, 4, 4, 0, 2, 2, 6, 6, 0, 4]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [5, 2, 4, 4, 4, 0, 4, 2, 2, 0, 6, 6]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] [7, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 17:31:27] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:27] [GameMaster] [logger/info] x: [0.54053359 0.42234846 0.43821286 0.52116031], y: [0.30514836 0.32795276 0.5998967  0.65209213]
+[2025-03-08 17:31:27] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:31:27] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:31:32] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:31:32] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:31:32] [GameMaster] [logger/info] Take random world: arena-d
+[2025-03-08 17:31:32] [GameMaster] [logger/info] HOST NAME : arena-d
+[2025-03-08 17:31:32] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [2, 2, 2, 0, 0, 0]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [0, 4, 0, 6, 6, 0]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [4, 6, 2, 4, 2, 0]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [0, 6, 2, 4, 4, 0]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [0, 6, 0, 6, 4, 0]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [0, 0, 0, 4, 0, 0]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [11, 10, 10, 8, 8, 8, 8, 8, 8, 10, 12, 12]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 4, 0, 6, 6, 0, 4, 6, 6, 2, 6, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [5, 6, 2, 4, 2, 0, 0, 4, 4, 0, 4, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 6, 2, 4, 4, 0, 6, 2, 2, 6, 2, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 6, 0, 6, 4, 0, 0, 2, 6, 4, 2, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 2, 0, 2, 2, 0, 0, 4, 2, 0, 2, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 6, 6, 2, 2, 2, 4, 4, 0, 6, 2, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 4, 0, 0, 4, 0, 4, 6, 0, 6, 2, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [5, 2, 6, 6, 2, 0, 0, 6, 2, 4, 4, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [5, 0, 6, 4, 4, 0, 4, 4, 0, 6, 2, 6]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [7, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:32] [GameMaster] [logger/info] x: [0.57258249 0.6098379  0.77135279 0.52800145], y: [0.48764367 0.34532111 0.77990013 0.03443688]
+[2025-03-08 17:31:32] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:31:32] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:31:32] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [2, 2, 4, 2, 0, 2]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [4, 0, 2, 0, 0, 2]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [0, 2, 6, 4, 2, 2]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [6, 4, 0, 4, 4, 0]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [0, 6, 4, 2, 2, 0]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [0, 0, 4, 0, 0, 0]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [11, 10, 12, 10, 8, 10, 8, 12, 10, 8, 14, 12]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [5, 0, 2, 0, 0, 2, 4, 2, 6, 0, 4, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 2, 6, 4, 2, 2, 2, 2, 4, 6, 0, 6]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [7, 4, 0, 4, 4, 0, 4, 0, 2, 2, 4, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 6, 4, 2, 2, 0, 4, 0, 6, 0, 0, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 0, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [5, 4, 4, 2, 0, 0, 0, 2, 6, 0, 2, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 0, 6, 2, 4, 0, 0, 0, 4, 4, 0, 6]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [7, 0, 2, 0, 6, 2, 6, 6, 0, 6, 6, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [1, 4, 4, 2, 2, 0, 2, 4, 4, 2, 0, 4]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [5, 2, 4, 2, 4, 0, 2, 0, 2, 0, 6, 6]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] [7, 2, 2, 6, 2, 2, 2, 2, 6, 2, 2, 6]
+[2025-03-08 17:31:32] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:32] [GameMaster] [logger/info] x: [0.72439366 0.37286076 0.87311651 0.18072429], y: [0.44975939 0.24338895 0.33866008 0.18988175]
+[2025-03-08 17:31:32] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:31:32] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:31:35] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:31:35] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:31:35] [GameMaster] [logger/info] Take random world: arena-a
+[2025-03-08 17:31:35] [GameMaster] [logger/info] HOST NAME : arena-a
+[2025-03-08 17:31:35] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [2, 2, 4, 0, 0, 2]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [2, 4, 2, 4, 2, 0]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [2, 2, 2, 4, 0, 2]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [2, 2, 2, 6, 2, 0]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [0, 4, 0, 6, 0, 0]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [4, 0, 0, 0, 4, 0]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [11, 10, 12, 8, 8, 10, 10, 12, 12, 12, 12, 12]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [3, 4, 2, 4, 2, 0, 0, 6, 4, 0, 6, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [3, 2, 2, 4, 0, 2, 0, 4, 4, 4, 0, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [3, 2, 2, 6, 2, 0, 4, 6, 2, 2, 2, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [1, 4, 0, 6, 0, 0, 2, 4, 0, 4, 0, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [5, 0, 0, 0, 4, 0, 0, 0, 4, 0, 4, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [5, 0, 4, 0, 0, 2, 4, 0, 2, 0, 4, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [1, 6, 2, 6, 2, 0, 0, 6, 2, 6, 2, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [3, 0, 0, 4, 4, 0, 2, 4, 0, 2, 2, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [1, 6, 4, 4, 2, 0, 0, 6, 0, 2, 0, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [5, 0, 4, 4, 0, 2, 2, 4, 0, 4, 2, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [7, 6, 6, 6, 2, 2, 2, 2, 6, 2, 2, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:35] [GameMaster] [logger/info] x: [0.62589629 0.32951026 0.52344502 0.3189867 ], y: [0.27788503 0.15174117 0.72926063 0.77370469]
+[2025-03-08 17:31:35] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:31:35] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:31:35] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [0, 6, 0, 0, 2, 2]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [2, 4, 4, 2, 0, 0]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [2, 0, 6, 4, 6, 2]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [2, 4, 2, 2, 0, 2]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [0, 6, 2, 0, 2, 0]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [0, 0, 0, 4, 0, 0]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [9, 14, 8, 8, 10, 10, 8, 12, 12, 12, 8, 12]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [3, 4, 4, 2, 0, 0, 4, 2, 2, 0, 6, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [3, 0, 6, 4, 6, 2, 4, 4, 4, 2, 2, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [3, 4, 2, 2, 0, 2, 2, 4, 0, 6, 0, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [1, 6, 2, 0, 2, 0, 4, 0, 4, 2, 4, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [1, 0, 0, 4, 0, 0, 0, 4, 4, 0, 4, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [5, 0, 6, 4, 0, 0, 0, 6, 0, 2, 2, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [5, 0, 6, 0, 4, 2, 2, 0, 2, 6, 0, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [1, 6, 2, 4, 0, 0, 2, 2, 0, 6, 0, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [3, 2, 4, 6, 6, 0, 4, 4, 6, 0, 0, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [5, 0, 0, 0, 4, 0, 2, 2, 4, 4, 2, 4]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] [3, 6, 6, 6, 2, 2, 2, 2, 2, 6, 2, 6]
+[2025-03-08 17:31:35] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:35] [GameMaster] [logger/info] x: [0.5006089  0.39240564 0.60208837 0.65697309], y: [0.01406486 0.80964709 1.00510132 0.68035847]
+[2025-03-08 17:31:35] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:31:35] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:31:43] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:31:43] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:31:43] [GameMaster] [logger/info] Take random world: arena-c
+[2025-03-08 17:31:43] [GameMaster] [logger/info] HOST NAME : arena-c
+[2025-03-08 17:31:43] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [0, 2, 2, 2, 2, 2]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [4, 2, 4, 2, 2, 0]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [0, 2, 4, 2, 4, 0]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [0, 6, 2, 6, 2, 0]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [0, 4, 2, 0, 2, 0]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [4, 0, 0, 0, 4, 0]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [9, 10, 10, 10, 10, 10, 10, 8, 8, 8, 10, 12]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 2, 4, 2, 2, 0, 0, 6, 6, 4, 4, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [1, 2, 4, 2, 4, 0, 4, 4, 0, 2, 6, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [1, 6, 2, 6, 2, 0, 0, 4, 6, 4, 4, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [1, 4, 2, 0, 2, 0, 6, 4, 0, 6, 4, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 0, 0, 0, 4, 0, 0, 0, 0, 0, 4, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 0, 2, 0, 0, 2, 4, 2, 0, 2, 4, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 4, 0, 6, 4, 0, 0, 2, 2, 6, 2, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 6, 6, 4, 0, 0, 0, 4, 2, 4, 2, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 0, 0, 6, 6, 0, 4, 2, 6, 0, 2, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 6, 4, 4, 0, 2, 2, 2, 6, 2, 6, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:43] [GameMaster] [logger/info] x: [0.45855089 0.39663559 0.10988877 0.58493183], y: [0.58924619 0.1651356  0.7007677  0.65049484]
+[2025-03-08 17:31:43] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:31:43] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:31:43] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [0, 2, 6, 0, 2, 2]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [2, 2, 4, 2, 0, 0]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [0, 6, 2, 2, 4, 2]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [2, 0, 0, 2, 2, 2]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [0, 6, 2, 0, 0, 0]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [0, 0, 4, 4, 4, 0]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [9, 10, 14, 8, 10, 10, 8, 12, 8, 12, 8, 12]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [3, 2, 4, 2, 0, 0, 4, 2, 4, 6, 4, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [1, 6, 2, 2, 4, 2, 6, 0, 4, 0, 6, 6]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [3, 0, 0, 2, 2, 2, 2, 4, 4, 4, 0, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [1, 6, 2, 0, 0, 0, 2, 4, 0, 2, 4, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [1, 0, 4, 4, 4, 0, 0, 4, 4, 0, 4, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 0, 6, 4, 0, 2, 4, 4, 4, 2, 2, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 0, 0, 4, 0, 2, 2, 2, 2, 4, 0, 6]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [3, 6, 4, 4, 0, 2, 2, 0, 2, 2, 2, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 0, 6, 0, 6, 0, 4, 0, 2, 4, 2, 6]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [5, 4, 4, 0, 4, 0, 2, 2, 4, 2, 2, 4]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] [3, 6, 2, 6, 2, 2, 2, 2, 6, 2, 2, 6]
+[2025-03-08 17:31:43] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:31:43] [GameMaster] [logger/info] x: [0.47488068 0.15048429 0.37877385 0.64184355], y: [0.8369387  0.41868974 0.46399989 0.57454029]
+[2025-03-08 17:31:43] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:31:43] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:31:44] [GameMaster] [logger/info] 46 : new position jump detected
+[2025-03-08 17:31:46] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:31:46] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:31:49] [GameMaster] [logger/info] 46 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:31:49] [GameMaster] [logger/info] - position.X = 0.12000000059604644
+[2025-03-08 17:31:49] [GameMaster] [logger/info] - position.Y = 1.6138399839401245
+[2025-03-08 17:31:49] [GameMaster] [logger/info] Robot 46 killed inside Maze
+[2025-03-08 17:31:49] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:31:49] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:31:49] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:31:49] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:32:47] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:32:47] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:32:47] [GameMaster] [logger/info] Take random world: arena-d
+[2025-03-08 17:32:47] [GameMaster] [logger/info] HOST NAME : arena-d
+[2025-03-08 17:32:47] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [4, 2, 0, 2, 0, 2]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [2, 2, 4, 4, 2, 2]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [2, 2, 2, 0, 4, 0]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [0, 2, 4, 6, 0, 2]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [0, 6, 0, 0, 2, 0]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [0, 4, 4, 4, 0, 0]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [13, 10, 8, 10, 8, 10, 8, 8, 12, 12, 8, 14]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [3, 2, 4, 4, 2, 2, 6, 6, 4, 4, 4, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [3, 2, 2, 0, 4, 0, 2, 0, 6, 0, 2, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [1, 2, 4, 6, 0, 2, 2, 4, 2, 0, 6, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [1, 6, 0, 0, 2, 0, 4, 0, 0, 6, 0, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [1, 4, 4, 4, 0, 0, 0, 4, 0, 4, 4, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [5, 4, 2, 4, 0, 0, 0, 6, 4, 4, 2, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [1, 6, 0, 2, 4, 2, 2, 0, 2, 4, 2, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [5, 2, 0, 6, 0, 2, 0, 4, 4, 2, 2, 6]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [1, 0, 4, 0, 2, 2, 6, 2, 0, 0, 2, 6]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [7, 4, 4, 4, 4, 0, 2, 4, 6, 0, 2, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [3, 6, 6, 2, 2, 2, 2, 2, 2, 2, 6, 6]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:32:47] [GameMaster] [logger/info] x: [0.26100716 0.1640115  0.56176866 0.33591522], y: [0.49738971 0.44447341 0.38143549 0.54707829]
+[2025-03-08 17:32:47] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:32:47] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:32:47] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [2, 2, 2, 4, 0, 2]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [4, 0, 2, 6, 2, 0]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [0, 6, 2, 0, 6, 0]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [0, 2, 2, 0, 2, 2]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [2, 4, 2, 2, 6, 0]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [11, 10, 10, 12, 8, 10, 12, 8, 8, 8, 14, 12]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [5, 0, 2, 6, 2, 0, 0, 6, 4, 2, 4, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [1, 6, 2, 0, 6, 0, 4, 4, 4, 4, 4, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [1, 2, 2, 0, 2, 2, 4, 0, 0, 4, 2, 6]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [3, 4, 2, 2, 6, 0, 4, 6, 4, 6, 0, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [5, 0, 2, 4, 2, 0, 0, 2, 2, 2, 0, 6]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [3, 6, 4, 4, 4, 0, 6, 2, 0, 6, 2, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [1, 4, 0, 0, 4, 0, 0, 2, 0, 2, 2, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [5, 4, 6, 4, 6, 0, 4, 2, 2, 6, 0, 4]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [5, 2, 4, 4, 0, 0, 2, 4, 0, 2, 6, 6]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] [7, 2, 2, 2, 6, 2, 2, 6, 2, 2, 2, 6]
+[2025-03-08 17:32:47] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:32:47] [GameMaster] [logger/info] x: [0.30736127 0.69023687 0.36724342 0.77422414], y: [0.75526206 0.587957   0.2654533  0.28168358]
+[2025-03-08 17:32:47] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:32:47] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:32:49] [GameMaster] [logger/info] 61 : new position jump detected
+[2025-03-08 17:32:53] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:32:53] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:32:56] [GameMaster] [logger/info] 61 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:32:56] [GameMaster] [logger/info] - position.X = 0.10067722645426233
+[2025-03-08 17:32:56] [GameMaster] [logger/info] - position.Y = 1.6127015456427045
+[2025-03-08 17:32:56] [GameMaster] [logger/info] Robot 61 killed inside Maze
+[2025-03-08 17:32:56] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:32:56] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:32:56] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:32:56] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:33:26] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:33:26] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:33:26] [GameMaster] [logger/info] Take random world: arena-d
+[2025-03-08 17:33:26] [GameMaster] [logger/info] HOST NAME : arena-d
+[2025-03-08 17:33:26] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [2, 0, 2, 4, 2, 0]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [2, 6, 4, 2, 0, 2]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [2, 2, 4, 0, 2, 2]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [4, 4, 0, 6, 0, 2]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [2, 4, 0, 6, 0, 0]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [0, 0, 0, 0, 4, 0]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [11, 8, 10, 12, 10, 8, 12, 8, 14, 12, 12, 12]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [3, 6, 4, 2, 0, 2, 0, 2, 6, 4, 2, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [3, 2, 4, 0, 2, 2, 0, 0, 0, 2, 6, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [5, 4, 0, 6, 0, 2, 4, 6, 2, 4, 0, 6]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [3, 4, 0, 6, 0, 0, 2, 0, 4, 0, 4, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [1, 0, 0, 0, 4, 0, 0, 4, 4, 4, 0, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [1, 4, 4, 4, 0, 2, 4, 0, 2, 0, 0, 6]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [7, 0, 4, 2, 2, 0, 2, 4, 2, 4, 0, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [1, 6, 2, 4, 4, 0, 2, 6, 0, 4, 6, 6]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [5, 2, 0, 2, 2, 0, 2, 0, 6, 0, 2, 6]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [1, 4, 4, 2, 0, 0, 0, 2, 4, 6, 0, 6]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [7, 6, 6, 2, 6, 2, 2, 6, 2, 2, 2, 6]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:33:26] [GameMaster] [logger/info] x: [0.13123836 0.69285624 0.26789962 0.77618079], y: [0.86970979 0.69576959 1.02764297 0.2517915 ]
+[2025-03-08 17:33:26] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:33:26] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:33:26] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [4, 0, 2, 0, 2, 0]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [0, 6, 2, 6, 4, 0]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [0, 6, 2, 0, 2, 0]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [0, 6, 0, 2, 6, 0]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [4, 2, 0, 0, 6, 0]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [4, 0, 4, 4, 0, 0]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [13, 8, 10, 8, 10, 8, 10, 10, 8, 8, 8, 14]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [1, 6, 2, 6, 4, 0, 4, 4, 6, 6, 2, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [1, 6, 2, 0, 2, 0, 2, 0, 4, 4, 4, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [1, 6, 0, 2, 6, 0, 2, 4, 0, 4, 2, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [5, 2, 0, 0, 6, 0, 4, 6, 6, 0, 6, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [5, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [1, 2, 0, 2, 2, 0, 0, 6, 4, 0, 6, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [5, 2, 4, 4, 4, 2, 4, 2, 2, 0, 6, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [1, 4, 0, 4, 0, 2, 4, 2, 0, 6, 2, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [5, 6, 6, 2, 0, 0, 0, 0, 2, 6, 2, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [3, 4, 4, 4, 6, 2, 4, 6, 0, 6, 0, 4]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] [3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6, 6]
+[2025-03-08 17:33:26] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:33:26] [GameMaster] [logger/info] x: [0.66154057 0.5250393  0.72592104 0.82441933], y: [0.40838588 1.05361487 0.6710756  0.41434405]
+[2025-03-08 17:33:26] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:33:26] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:33:28] [GameMaster] [logger/info] 35 : new position jump detected
+[2025-03-08 17:33:30] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:33:30] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:33:34] [GameMaster] [logger/info] 35 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:33:34] [GameMaster] [logger/info] - position.X = 0.12000000059604644
+[2025-03-08 17:33:34] [GameMaster] [logger/info] - position.Y = 1.6138399839401245
+[2025-03-08 17:33:34] [GameMaster] [logger/info] Robot 35 killed inside Maze
+[2025-03-08 17:33:34] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:33:34] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:33:34] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:33:34] [GameMaster] [logger/info] SET new phase : END
+[2025-03-08 17:34:41] [GameMaster] [logger/info] game reset ------- 
+[2025-03-08 17:34:41] [GameMaster] [logger/info] Host name = davd-xps159500
+[2025-03-08 17:34:41] [GameMaster] [logger/info] Take random world: arena-c
+[2025-03-08 17:34:41] [GameMaster] [logger/info] HOST NAME : arena-c
+[2025-03-08 17:34:41] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [0, 2, 0, 2, 0, 2]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [6, 2, 0, 6, 0, 2]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [4, 2, 6, 2, 0, 0]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [4, 2, 2, 4, 6, 0]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [4, 0, 6, 4, 4, 0]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [9, 10, 8, 10, 8, 10, 8, 10, 10, 14, 10, 12]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [7, 2, 0, 6, 0, 2, 0, 4, 4, 4, 4, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [5, 2, 6, 2, 0, 0, 4, 6, 4, 2, 0, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [5, 2, 2, 4, 6, 0, 0, 2, 6, 4, 6, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [5, 0, 6, 4, 4, 0, 0, 6, 2, 0, 0, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [5, 4, 0, 2, 2, 0, 0, 0, 0, 2, 0, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [1, 2, 0, 6, 2, 0, 4, 6, 4, 2, 6, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [5, 4, 6, 0, 2, 0, 4, 4, 2, 2, 6, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [1, 0, 4, 4, 4, 0, 2, 0, 6, 0, 6, 6]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [5, 6, 6, 6, 2, 0, 2, 4, 2, 0, 6, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [3, 6, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:34:41] [GameMaster] [logger/info] x: [0.3178886  0.54980433 0.75009796 0.53259937], y: [0.39691896 0.4553066  0.74414252 0.64719189]
+[2025-03-08 17:34:41] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER
+[2025-03-08 17:34:41] [GameMaster] [logger/info] SET new phase : REGISTER
+[2025-03-08 17:34:41] [GameMaster] [logger/info] Generate Random Maze
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] SMALL MAZE VALUES :
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [0, 6, 0, 2, 0, 0]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [0, 6, 6, 2, 4, 2]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [0, 2, 0, 2, 2, 2]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [6, 2, 2, 2, 0, 2]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [4, 0, 2, 6, 0, 2]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [0, 0, 0, 0, 0, 0]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] MAZE VALUES :
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [9, 14, 8, 10, 8, 8, 8, 14, 10, 8, 8, 12]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [1, 6, 6, 2, 4, 2, 0, 4, 4, 4, 6, 6]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [1, 2, 0, 2, 2, 2, 4, 4, 0, 4, 2, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [7, 2, 2, 2, 0, 2, 4, 6, 4, 4, 4, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [5, 0, 2, 6, 0, 2, 0, 0, 4, 0, 2, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [1, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [1, 6, 4, 4, 4, 0, 2, 0, 2, 2, 0, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [1, 0, 4, 0, 2, 0, 2, 4, 2, 2, 6, 6]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [5, 6, 4, 4, 4, 0, 2, 2, 2, 0, 6, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [3, 6, 0, 4, 4, 0, 2, 0, 2, 2, 2, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [5, 4, 4, 6, 2, 0, 4, 0, 6, 4, 2, 4]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] [3, 2, 2, 6, 2, 2, 2, 2, 2, 6, 2, 6]
+[2025-03-08 17:34:41] [GameMaster] [logger/debug] --------------------
+[2025-03-08 17:34:41] [GameMaster] [logger/info] x: [0.76839037 0.57252966 0.2713572  0.4858128 ], y: [0.57663381 0.81925193 0.65948376 0.35625771]
+[2025-03-08 17:34:41] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.REGISTER_SIM
+[2025-03-08 17:34:41] [GameMaster] [logger/info] SET new phase : REGISTER_SIM
+[2025-03-08 17:34:43] [GameMaster] [logger/info] 75 : new position jump detected
+[2025-03-08 17:34:45] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.PLAY
+[2025-03-08 17:34:45] [GameMaster] [logger/info] SET new phase : PLAY
+[2025-03-08 17:34:48] [GameMaster] [logger/info] 75 killed : undetected robot tag (outside camera field) 
+[2025-03-08 17:34:48] [GameMaster] [logger/info] - position.X = 0.12000000059604644
+[2025-03-08 17:34:48] [GameMaster] [logger/info] - position.Y = 1.6138399839401245
+[2025-03-08 17:34:48] [GameMaster] [logger/info] Robot 75 killed inside Maze
+[2025-03-08 17:34:48] [GameMaster] [logger/info] team 1 : TeamState.WINNER
+[2025-03-08 17:34:48] [GameMaster] [logger/info] team 2 : TeamState.LOSER
+[2025-03-08 17:34:48] [GameMaster] [logger/info] --  PHASE  -- : GamePhase.END
+[2025-03-08 17:34:48] [GameMaster] [logger/info] SET new phase : END
